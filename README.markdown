@@ -52,7 +52,7 @@ The Stack plugin attempts to make no assumptions -- it's not entirely successful
     <tr>
       <td><code>removeSelector</code></td>
       <td>string</td>
-      <td><strong>Optional.</strong> The selector expression that will identify the add button within a given row or container. An empty value indicates that removal is not allowed once a row is added.</td>
+      <td><strong>Optional.</strong> The selector expression that will identify the remove button within a given row or container. An empty value indicates that removal is not allowed once a row is added.</td>
     </tr>
     <tr>
       <td><code>maxRows</code></td>
